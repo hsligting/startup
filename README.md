@@ -1,2 +1,2 @@
 # startup
-first commit
+Updated read me
