@@ -9,7 +9,7 @@ I like to lift weights with my friends. I have been using a note on my phone to 
 
 Features:
 - Login
-- Ability to add a lift to your list of lists
+- Ability to add a lift to your list of lifts
 - Ability to add a new rep count and weight to a lift
 - Ability to see lifts of others on the app
 - Ability to add and see comments on lifts in real time
