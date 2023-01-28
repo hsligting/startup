@@ -14,3 +14,9 @@ Features:
 - Ability to see lifts of others on the app
 - Ability to add and see comments on lifts in real time
 - Lifts and comments are persistently stored
+
+Notes:
+
+IP Address: ```3.142.180.196```
+
+SSH Command: ```ssh -i [key pair file] ubuntu@[ip address]```
