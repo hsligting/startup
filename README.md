@@ -20,3 +20,7 @@ Notes:
 IP Address: ```3.142.180.196```
 
 SSH Command: ```ssh -i [key pair file] ubuntu@[ip address]```
+
+Simon HTML Notes:
+
+I learned that you can use the method attribute of a form element to specify how to send the form data to the url spcefied in the action attribute. Before this I didn't realize you could send data without using some javascript. I also learned that you can use the sup tag to create superscript text and that &reg; creates a registered trademark simbol.
